@@ -1,4 +1,5 @@
 /*
+800
 
 Those days, many boys use beautiful girls' photos as avatars in forums. So it is pretty hard to tell the gender of a user at the first glance. 
 Last year, our hero went to a forum and had a nice chat with a beauty (he thought so). After that they talked very often and 

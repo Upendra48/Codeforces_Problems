@@ -1,4 +1,5 @@
 /*
+800
 
 Vasya is very upset that many people on the Net mix uppercase and lowercase letters in one word. That's why he decided 
 to invent an extension for his favorite browser that would change the letters' register in every word so that it either 

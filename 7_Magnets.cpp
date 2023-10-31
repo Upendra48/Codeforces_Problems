@@ -1,4 +1,5 @@
 /*
+800
 
 Mad scientist Mike entertains himself by arranging rows of dominoes. He doesn't need dominoes, though:
  he uses rectangular magnets instead. Each magnet has two poles, positive (a "plus") and negative (a "minus"). 

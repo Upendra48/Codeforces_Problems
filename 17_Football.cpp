@@ -1,4 +1,5 @@
 /*
+
 900
 
 Petya loves football very much. One day, as he was watching a football match, he was writing the players' current positions on a piece of paper. 

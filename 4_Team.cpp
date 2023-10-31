@@ -1,4 +1,5 @@
 /*
+800
 
 One day three best friends Petya, Vasya and Tonya decided to form a team and take part in programming contests.
  Participants are usually offered several problems during programming contests. Long before the start the friends 
